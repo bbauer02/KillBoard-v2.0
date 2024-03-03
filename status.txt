@@ -1,0 +1,1 @@
+﻿{ "status": "offline", "message": "We are currently installing the big Rise of Avalon update! Servers will be back at 13:00 UTC." }

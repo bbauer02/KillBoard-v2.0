@@ -1,0 +1,6 @@
+xw--2020-12-27 20:16:47--  https://gameinfo.albiononline.com/api/gameinfo/events?limit=51
+Resolving gameinfo.albiononline.com (gameinfo.albiononline.com)... 5.188.92.14, 2a03:90c0:1d1:2801::14
+Connecting to gameinfo.albiononline.com (gameinfo.albiononline.com)|5.188.92.14|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-12-27 20:16:47 ERROR 403: Forbidden.
+
