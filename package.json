@@ -20,7 +20,7 @@
       "resolved": "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz",
       "version": "0.4.0"
     },
-    "axios": "^0.19.2",
+    "axios": "^0.30.2",
     "axios-cookiejar-support": "^1.0.0",
     "bent": "^7.1.2",
     "bytesish": {
